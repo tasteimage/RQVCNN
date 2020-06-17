@@ -21,8 +21,8 @@ Currently we can only guarantee that this demo can run normally under Linux.
 1. Pre-processing: Before running the program, please run the following command to pre-process the project
 
   ```bash
-  python -W ignore --preprocess 
-  python -W ignore --preprocess --dataset=Kodak 
+  python -W ignore main.py --preprocess 
+  python -W ignore main.py --preprocess --dataset=Kodak 
   ```
 
 2. Showing test image
