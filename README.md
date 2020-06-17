@@ -22,6 +22,7 @@ Currently we can only guarantee that this demo can run normally under Linux.
 
   ```bash
   python -W ignore --preprocess 
+  python -W ignore --preprocess --dataset=Kodak 
   ```
 
 2. Showing test image
